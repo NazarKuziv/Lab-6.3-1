@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest 6.3-1.cpp
+D:\ddpu\алгоритмізація\Коди\Project 6.3-1\Project 6.3-1.cpp(24,20): warning C4101: 'S1': unreferenced local variable
+     Creating library D:\ddpu\алгоритмізація\Коди\Project 6.3-1\Debug\UnitTest 6.3-1.lib and object D:\ddpu\алгоритмізація\Коди\Project 6.3-1\Debug\UnitTest 6.3-1.exp
+  UnitTest 6.3-1.vcxproj -> D:\ddpu\алгоритмізація\Коди\Project 6.3-1\Debug\UnitTest 6.3-1.dll
